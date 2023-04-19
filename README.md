@@ -113,36 +113,35 @@
 
 ## Last Projects
 <table>
-<tr>
-<td width="50%">
-<h3 align="center">Re Usa</h3>
-<div align="center">
-<a href=""https://re-usa.netlify.app/" target="_blank"><img src="https://res.cloudinary.com/dacltsvln/image/upload/v1681284510/Logo_Re-Usa_x6tfey.png" width="300" alt="Re-Usa"></a>
-<p>
-<a href="https://github.com/Apleon89/re-usa-client" target="_blank">
-<img src="https://img.shields.io/badge/FRONTEND-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://github.com/Apleon89/re-usa-server" target="_blank">
-<img src="https://img.shields.io/badge/BACKEND-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p>MERN STACK application for exchanging second-hand products</p>
-</div>
-                                                                                      
-</td>
-
-<td width="50%">
-               <br>
-<h3 align="center">Talent Match</h3>
-<div align="center">                                       
-<a href="https://talentmatch.cyclic.app/" target="_blank"><img src="https://res.cloudinary.com/dacltsvln/image/upload/v1681284600/logoTalentMatch_nxreo4.png" width="300" alt="Talent Match"></a>
-<p>
-<a href="https://github.com/jdluis/TalentMatch" target="_blank">
-<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-</p>Full stack application to connect companies with talented developers</p>
-</div>                                                             
+  <tr>
+  <td width="50%">
+    <h3 align="center">Re Usa</h3>
+    <div align="center">
+      <a href=""https://re-usa.netlify.app/" target="_blank"><img src="https://res.cloudinary.com/dacltsvln/image/upload/v1681284510/Logo_Re-             Usa_x6tfey.png" width="300" alt="Re-Usa"></a>
+      <p>
+        <a href="https://github.com/Apleon89/re-usa-client" target="_blank">
+        <img src="https://img.shields.io/badge/FRONTEND-ff9?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+        <a href="https://github.com/Apleon89/re-usa-server" target="_blank">
+        <img src="https://img.shields.io/badge/BACKEND-ff9?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+      </p>
+      <p>MERN STACK application for exchanging second-hand products</p>
+    </div>                                                                 
+  </td>
+                                                                                                           
+  <td width="50%">
+    <h3 align="center">Talent Match</h3>
+    <div align="center">                                       
+      <a href="https://talentmatch.cyclic.app/" target="_blank">
+        <img src="https://res.cloudinary.com/dacltsvln/image/upload/v1681284600/logoTalentMatch_nxreo4.png" width="300" alt="Talent Match"></a>
+      <p>
+        <a href="https://github.com/jdluis/TalentMatch" target="_blank">
+          <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+      </p>
+      <p>Full stack application to connect companies with talented developers</p>
+    </div>                                                             
 </table>                                                                                 
 </div>
 <br>
