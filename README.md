@@ -136,7 +136,6 @@
 <h3 align="center">Talent Match</h3>
 <div align="center">                                       
 <a href="https://talentmatch.cyclic.app/" target="_blank"><img src="https://res.cloudinary.com/dacltsvln/image/upload/v1681284600/logoTalentMatch_nxreo4.png" width="300" alt="Talent Match"></a>
-<br>
 <p>
 <a href="https://github.com/jdluis/TalentMatch" target="_blank">
 <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
