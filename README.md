@@ -156,4 +156,4 @@
 </p>
 
 ## ⚙️ &nbsp;Codewars Score
-<img src="https://www.codewars.com/users/Apleon89/badges/large"/>
+<p  align='center'><img height='50em' src="https://www.codewars.com/users/Apleon89/badges/large"/></p>
