@@ -111,7 +111,7 @@
   </p>
 </div>
 
-## Last Projects
+## Best Projects
 <table>
   <tr>
   <td width="50%">
