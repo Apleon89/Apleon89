@@ -156,4 +156,11 @@
 </p>
 
 ## ⚙️ &nbsp;Codewars Score
+
 <p  align='center'><img height='50em' src="https://www.codewars.com/users/Apleon89/badges/large"/></p>
+                                                                                              
+## :fire: My stats
+
+<div align='center'>                                                                                                
+  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=Apleon89&theme=dark&background=000000"/>               
+</div>
