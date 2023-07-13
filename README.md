@@ -117,7 +117,9 @@
   <td width="50%">
     <h3 align="center">Re Usa</h3>
     <div align="center">
-      <a href=""https://re-usa.netlify.app/" target="_blank"><img src="https://res.cloudinary.com/dacltsvln/image/upload/v1681284510/Logo_Re-Usa_x6tfey.png" width="300" alt="Re-Usa"></a>
+      <a href="https://re-usa.netlify.app/" target="_blank">
+        <img src="https://res.cloudinary.com/dacltsvln/image/upload/v1681284510/Logo_Re-Usa_x6tfey.png" width="300" alt="Re-Usa">
+      </a>
       <p>
         <a href="https://github.com/Apleon89/re-usa-client" target="_blank">
         <img src="https://img.shields.io/badge/FRONTEND-ff9?style=for-the-badge&logo=github&logoColor=black">
