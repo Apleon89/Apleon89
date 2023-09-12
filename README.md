@@ -11,6 +11,7 @@
 - 🎙🎤🔊 Background in sound and acoustical engineering
 - 🌎 I love challenges and learning something new every day
 - 🌐 <a href="https://alberto-perez-dev.netlify.app/" target="_blank">My Portfolio</a>
+- 🗂️ Currently working on <a href="https://pangostudio.com/" target="_blank">PangoStudio</a>
 <br>
 
 ## Skills 
