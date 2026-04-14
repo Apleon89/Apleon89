@@ -6,7 +6,7 @@
 ## About Me
 
 - 📍 Tenerife / Canary Islands
-- 💻🖥 Junior Full Stack Web Developer
+- 💻🖥 Full Stack Web Developer
 - 📲 Passionate about mobile telephony
 - 🎙🎤🔊 Background in sound and acoustical engineering
 - 🌎 I love challenges and learning something new every day
