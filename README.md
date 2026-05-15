@@ -1,7 +1,6 @@
 <div align="center">
 <h1 align="center">Hi, I'm <a href="https://alberto-perez-dev.netlify.app/" target="_blank">Alberto Pérez</a> 👋</h1>
 </div>
-<img src="https://res.cloudinary.com/dacltsvln/image/upload/v1681901652/Captura_de_pantalla_2023-04-19_a_las_11.48.39_twieal.png">
 
 ## About Me
 
